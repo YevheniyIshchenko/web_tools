@@ -1,4 +1,4 @@
-import { createLogger } from '../../logger';
+import { createLogger } from '../logger';
 
 it('should return stored logs', () => {
   const logger = createLogger('user login');

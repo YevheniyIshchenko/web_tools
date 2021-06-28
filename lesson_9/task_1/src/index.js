@@ -11,5 +11,3 @@ const profile = {
 };
 
 printProfile(profile);
-
-console.log(profile);
